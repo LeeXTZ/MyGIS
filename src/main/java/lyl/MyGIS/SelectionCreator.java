@@ -59,7 +59,7 @@ import com.vividsolutions.jts.geom.Polygon;
  * 若不为空，则调用createSelectedSStyle()，将其返回值作为样式（选中要素高亮）重新显示图层，
  * 否则调用createDefaultStyle()方法（以默认样式显示图层）；
  *
- * @author 114151班-20151001251-李彦磊
+ * @author 
  */
 public class SelectionCreator {
 

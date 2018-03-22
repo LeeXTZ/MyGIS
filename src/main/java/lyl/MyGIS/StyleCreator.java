@@ -49,7 +49,7 @@ import com.vividsolutions.jts.geom.Polygon;
  * createRGBStyle()方法为栅格图层创建样式，方法首先检查图层中是否具有"red...", "green...", "blue..."字眼，
  * 如果没有找到，则根据图层的bands 1, 2, 和 3 ，分别为其赋红色、绿色和蓝色。
  *
- * @author 114151班-20151001251-李彦磊
+ * @author
  */
 
 public class StyleCreator {

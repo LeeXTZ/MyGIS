@@ -12,7 +12,7 @@ import org.geotools.data.simple.SimpleFeatureCollection;
 import org.geotools.swing.table.FeatureCollectionTableModel;
 
 /**
- * @author 114151班-20151001251-李彦磊
+ * @author
  *
  */
 @SuppressWarnings("serial")

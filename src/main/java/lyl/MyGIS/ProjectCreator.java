@@ -30,7 +30,7 @@ import org.geotools.map.MapContent;
  * savePrjFile()方法，用于将项目信息保存到Project对象的prjFile字段中。
  * 		由于此方法需要用到prjFile字段，这就要求要保存的项目必须已经保存过（存在项目文件）。
  * 
- * @author 114151班-20151001251-李彦磊
+ * @author
  *
  */
 public class ProjectCreator {

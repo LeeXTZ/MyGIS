@@ -7,7 +7,7 @@ package lyl.MyGIS;
  * setMenuBar()方法，用于定义菜单栏及其事件监听程序；
  * setToolBar()方法，定义工具栏。
  * 
- * @author 114151班-20151001251-李彦磊
+ * @author
  *
  */
 

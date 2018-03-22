@@ -62,7 +62,7 @@ import com.vividsolutions.jts.geom.Point;
  * 
  * centerFeatures()方法，首先获取符合条件的要素集，然后计算要素集的平均中心，并显示。
  * 
- * @author 114151班-20151001251-李彦磊
+ * @author
  * 
  */
 @SuppressWarnings("serial")
